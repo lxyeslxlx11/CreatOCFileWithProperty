@@ -1,5 +1,5 @@
 #!/bin/bash
 CMD_PATH=`dirname $0`
 cd $CMD_PATH
-python CreateTMRequest.py 
+python CreateOCFileWithProperty.py 
 exit 0
